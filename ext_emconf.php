@@ -11,7 +11,7 @@ $EM_CONF['typo3_hyphenator'] = [
     'version' => '1.3.0',
     'constraints' => [
         'depends' => [
-            'typo3' => '10.4.0-11.5.99',
+            'typo3' => '10.4.0-12.5.99',
         ],
     ],
 ];
